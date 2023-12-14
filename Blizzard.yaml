@@ -2,9 +2,9 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-12-14 16:52:30
-# DOMAIN-SUFFIX: 39
+# DOMAIN-SUFFIX: 41
 # IP-CIDR: 77
-# TOTAL: 116
+# TOTAL: 118
 payload:
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
@@ -45,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,wowchina.com
+  - DOMAIN-SUFFIX,blzprofile.akamaized.net
+  - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
   - IP-CIDR,5.42.162.0/24
   - IP-CIDR,12.129.206.0/24
   - IP-CIDR,12.129.228.0/24
