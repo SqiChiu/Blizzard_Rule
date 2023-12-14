@@ -1,7 +1,7 @@
 payload:
   # Battle_asia
   - DOMAIN-SUFFIX,battle.net
-  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blizzard.com0
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
