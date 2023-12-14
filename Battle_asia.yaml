@@ -2,39 +2,39 @@ payload:
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,battlenet.com
-  - DOMAIN,battlenet.com.cn
+  - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
-  - DOMAIN,blizzard.nefficient.co.kr
+  - DOMAIN-SUFFIX,blizzard.nefficient.co.kr
   - DOMAIN-SUFFIX,blizzardgames.cn
   - DOMAIN-SUFFIX,blizzardgearstore.com
-  - DOMAIN,blizzcon-a.akamaihd.net
+  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
   - DOMAIN-SUFFIX,blz-contentstack.com
-  - DOMAIN,blz.nosdn.127.net
-  - DOMAIN,blzddist1-a.akamaihd.net
-  - DOMAIN,blzddistkr1-a.akamaihd.net
-  - DOMAIN,blzmedia-a.akamaihd.net
-  - DOMAIN,blznav.akamaized.net
+  - DOMAIN-SUFFIX,blz.nosdn.127.net
+  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+  - DOMAIN-SUFFIX,blznav.akamaized.net
   - DOMAIN-SUFFIX,blzstatic.cn
-  - DOMAIN,bnet.163.com
-  - DOMAIN,bnetcmsus-a.akamaihd.net
-  - DOMAIN,bnetproduct-a.akamaihd.net
-  - DOMAIN,bnetshopus.akamaized.net
-  - DOMAIN,cdp.cloud.unity3d.com
-  - DOMAIN,di.res.netease.com
+  - DOMAIN-SUFFIX,bnet.163.com
+  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,di.res.netease.com
   - DOMAIN-SUFFIX,diablo3.com
-  - DOMAIN,diablo3.nosdn.127.net
+  - DOMAIN-SUFFIX,diablo3.nosdn.127.net
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,firesidegatherings.com
-  - DOMAIN,hearthstone.nosdn.127.net
-  - DOMAIN,heroes.nos.netease.com
+  - DOMAIN-SUFFIX,hearthstone.nosdn.127.net
+  - DOMAIN-SUFFIX,heroes.nos.netease.com
   - DOMAIN-SUFFIX,heroesofthestorm.com
-  - DOMAIN,overwatch.nosdn.127.net
+  - DOMAIN-SUFFIX,overwatch.nosdn.127.net
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playoverwatch.com
   - DOMAIN-SUFFIX,playwarcraft3.com
-  - DOMAIN,sc2.nosdn.127.net
+  - DOMAIN-SUFFIX,sc2.nosdn.127.net
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
-  - DOMAIN,wow.nosdn.127.net
+  - DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,wowchina.com
