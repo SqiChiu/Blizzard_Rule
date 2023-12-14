@@ -37,5 +37,5 @@ payload:
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
-  - DOMAIN-SUFFIX,wow.nosdn.127.net
+  #- DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,wowchina.com
