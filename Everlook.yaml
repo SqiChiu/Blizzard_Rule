@@ -3,4 +3,4 @@
 # TOTAL: 1
 payload:
   - DOMAIN-SUFFIX,asia.everlook-wow.net
-  - IPCIDR,207.226.219.90,no-resolve
+  - IP-CIDR,207.226.219.90/32,no-resolve
