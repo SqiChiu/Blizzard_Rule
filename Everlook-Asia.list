@@ -1,6 +1,5 @@
 # NAME: Everlook-Asia
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
-payload:
-  - DOMAIN-SUFFIX,asia.everlook-wow.net
-  - DOMAIN-SUFFIX,logon.everlook-wow.net
+DOMAIN-SUFFIX,asia.everlook-wow.net
+DOMAIN-SUFFIX,logon.everlook-wow.net
