@@ -1,5 +1,5 @@
-# NAME: Everlook_Vanilla
+# NAME: Everlook_Asia
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 payload:
-  - DOMAIN-SUFFIX,asia.everlook-wow.net
+  - DOMAIN-SUFFIX,everlook-wow.net
